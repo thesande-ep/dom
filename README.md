@@ -1,2 +1,2 @@
-# DOM Manipulation 
-The dom Manipulation section
+# JavaScript to the real world
+Javascript in real world
